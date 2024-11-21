@@ -1,24 +1,7 @@
 {
   "lan": ["cn", "en", "fr", "fa"],
   "default": "cn",
-  "data": {
-    "title": {
-      "cn": "俄罗斯方块",
-      "en": "T E T R I S",
-      "fr": "T E T R I S",
-      "fa": "خانه سازی"
-    },
-    "github": {
-      "cn": "GitHub",
-      "en": "GitHub",
-      "fr": "GitHub",
-      "fa": "گیت‌هاب"
-    },
-    "linkTitle": {
-      "cn": "查看源代码",
-      "en": "View data source",
-      "fr": "Afficher la source des données",
-      "fa": "مشاهده سورس پروژه"
+
     },
     "QRCode":{
       "cn": "二维码",
