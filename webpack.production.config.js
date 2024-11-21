@@ -1,4 +1,4 @@
-var config = require('./w.config');
+
 
 // production环境配置
 module.exports = {
