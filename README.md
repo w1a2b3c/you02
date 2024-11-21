@@ -1,5 +1,6 @@
-### English introduction
-Please view [README-EN.md](https://github.com/chvin/react-tetris/blob/master/README-EN.md)
+## 完整专业版代码
+https://zibovip.top/2870.html
+
 
 ----
 ## 用React、Redux、Immutable做俄罗斯方块
